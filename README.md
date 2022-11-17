@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dara Structures and Algorithms 
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me _asmita.pal_ :Instagram 
+- 📫 How to reach me _ asmita.pal_(underscore asmita dot pal underscore) :Instagram 
 
 <!---
 Asmita-Pal158/Asmita-Pal158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
