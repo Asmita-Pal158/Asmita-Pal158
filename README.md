@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asmita-Pal158
-- 👀 I’m interested in Dara Structures and Algorithms 
+- 👀 I’m interested in Data Structures and Algorithms 
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me _ asmita.pal_(underscore asmita dot pal underscore) :Instagram 
